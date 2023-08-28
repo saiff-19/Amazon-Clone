@@ -1,2 +1,4 @@
-# Projects
-In the repo you can see all of my projects.
+# Amazon-Clone
+<h3>This is my first project using HTML & CSS<\h3>
+<br>
+In this project i've tried to clone amazon website
