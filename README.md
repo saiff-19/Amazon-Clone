@@ -7,7 +7,6 @@ This project is a simplified static clone of the Amazon.com website created usin
 ## Features
 
 - Static representation of Amazon.com's homepage.
-- Responsive design for various screen sizes.
 - Navigation bar with links to different sections.
 - Product cards with images, descriptions, and prices.
 - Footer with links and copyright information.
